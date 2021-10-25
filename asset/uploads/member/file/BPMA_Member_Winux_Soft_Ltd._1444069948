@@ -1,0 +1,22 @@
+<div id="prizm-cloud-container">
+    <div class="prizm-cloud-viewer" id="prizm-cloud-viewer">
+    
+    
+<iframe id="pc_viewer_box" width="460" height="650" frameborder="0" src="http://connect.ajaxdocumentviewer.com/?key=03232898832&viewertype=html5&document=http://winuxsoftbd.com/pdf/mid.pdf&viewerheight=600&viewerwidth=440&printButton=Yes&toolbarColor=CCCCCC" seamless></iframe>
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="documents-for-switching" id="documents-for-switching"> 
+        <a href="http://www.accusoft.com/docs/prizm-cloud-flash-vs-html5.pdf" data-doc-link="http://www.accusoft.com/docs/prizm-cloud-flash-vs-html5.pdf" class="doc-link active">
+            <img src="http://prizmcloud.com/img/pc-demo-pdf-thumb-1.gif" /></a>
+        <a href="http://www.cdc.gov/phpr/documents/11_225700_A_Zombie_Final.pdf" data-doc-link="http://www.cdc.gov/phpr/documents/11_225700_A_Zombie_Final.pdf" class="doc-link">
+            <img src="http://prizmcloud.com/img/pc-demo-pdf-thumb-3.gif" /></a>
+    </div>
+</div>

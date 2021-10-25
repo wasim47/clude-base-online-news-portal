@@ -1,0 +1,9 @@
+[09-Oct-2015 07:42:31 Asia/Dhaka] PHP Fatal error:  Call to undefined method Index_model::getAllMember() in /home/bpmabdor/public_html/application/controllers/Index.php on line 130
+[24-Oct-2015 18:17:47 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'asset' (T_STRING) in /home/bpmabdor/public_html/application/views/frontend/index.php on line 9
+[24-Oct-2015 18:22:14 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'asset' (T_STRING) in /home/bpmabdor/public_html/application/views/frontend/index.php on line 31
+[24-Oct-2015 18:23:16 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'asset' (T_STRING) in /home/bpmabdor/public_html/application/views/frontend/index.php on line 31
+[24-Oct-2015 18:25:45 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'asset' (T_STRING) in /home/bpmabdor/public_html/application/views/frontend/index.php on line 31
+[24-Oct-2015 18:27:42 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'asset' (T_STRING) in /home/bpmabdor/public_html/application/views/frontend/index.php on line 32
+[24-Oct-2015 18:27:58 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'asset' (T_STRING) in /home/bpmabdor/public_html/application/views/frontend/index.php on line 32
+[24-Oct-2015 18:29:38 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'asset' (T_STRING) in /home/bpmabdor/public_html/application/views/frontend/index.php on line 31
+[24-Oct-2015 18:38:34 Asia/Dhaka] PHP Parse error:  syntax error, unexpected ''asset/uploads/advertisement/4' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/bpmabdor/public_html/application/views/frontend/index.php on line 33

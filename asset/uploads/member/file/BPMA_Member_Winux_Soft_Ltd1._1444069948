@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta charset="utf-8" />
+
+<!-- Meta Tags -->
+<title>Paintman New Zealand | Paint Manufacturers Association</title>
+<meta name="description" content="The New Zealand Paint Manufacturers Association Incorporated (NZPMA) is governed by the membership rather than an elected Council. Members attend regular quarterly meetings alternating between Auckland and Wellington"/>
+<meta name="keywords" content=""/> 
+
+<meta property="og:title" content="Home" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.paintman.org.nz/" />
+<meta property="og:site_name" content="Website" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<meta name="revisit-after" content="1 days" />
+<meta name="robots" content="index, follow" />
+
+<!-- Firefox -->
+<!-- 40.0 -->
+
+<!-- Stylesheets -->
+<link rel="stylesheet" type="text/css" href="edit/template.css" />
+<link rel="stylesheet" type="text/css" href="edit/templatecustom.css.php?id=edit4b04a8d3a64dd" />
+<link rel="stylesheet" type="text/css" href="edit/styles/media_queries.css" />
+<link rel="stylesheet" type="text/css" href="edit/styles/colorbox.css" />
+<link rel="stylesheet" type="text/css" href="edit/styles/nivoslider.css" />
+<link rel="stylesheet" type="text/css" href="edit/styles/flexslider.css" />
+<link rel="stylesheet" type="text/css" href="edit/styles/caroufredsel.css" />
+<link rel="stylesheet" type="text/css" href="edit/styles/sequence.css" />
+<link rel="stylesheet" type="text/css" href="edit/styles/jquery.ui.1.10.2.custom.css" />
+
+<!-- Javascript -->
+<script src="edit/scripts/jquery.min.js" type="text/javascript"></script>
+<script src="edit/scripts/jquery.ui.min.js" type="text/javascript"></script>
+<script src="edit/scripts/jquery.easing.1.3.js" type="text/javascript"></script>
+<script src="edit/scripts/jquery.fitvids.js" type="text/javascript"></script>
+<script src="edit/scripts/template.js" type="text/javascript"></script>
+<script src="edit/scripts/jquery.colorbox.min.js" type="text/javascript"></script>
+<script src="edit/scripts/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+<script src="edit/scripts/jquery.flexslider.min.js" type="text/javascript"></script>
+<script src="edit/scripts/jquery.sequence.min.js" type="text/javascript"></script>
+<script src="edit/scripts/jquery.caroufredsel.6.2.1.min.js" type="text/javascript"></script>
+<script src="edit/scripts/jquery.ba.throttle.debounce.min.js" type="text/javascript"></script>
+<script src="edit/scripts/jquery.mousewheel.min.js" type="text/javascript"></script>
+<script src="edit/scripts/jquery.touchswipe.min.js" type="text/javascript"></script>
+<script src="edit/scripts/jquery.transit.min.js" type="text/javascript"></script>
+
+<script language="javascript">
+var pageRelativity = "";
+</script>
+
+<!--[if lt IE 9]>
+<script src="edit/scripts/html5.js"></script>
+<script src="edit/scripts/css3-mediaqueries.js"></script>
+<![endif]-->
+
+<!-- Icons -->
+<link rel="shortcut icon" href="http://www.paintman.org.nz/images/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="images/favicon.gif" />
+
+<!-- Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-59254934-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body class="home">
+<div id="container1">
+    <div id="container-header">
+    	<div class="wrap">
+            <header id="header">
+                <div id="logo-emblem"><a href="." target="_self" title=""><img src="edit/image_cache/logo_emblem_960x5000c0pcenter.png" alt="" /></a></div>
+                <div id="logo"><a href="." target="_self" title=""><img src="edit/image_cache/logo_text_960x5000c0pcenter.png" alt="" /></a></div>
+                                <div id="search"><form id="search-box" method="POST" action="our-members"><input type="text" id="search-box-input" name="search-box-input" value="Search Members..." /> &nbsp; <button id="search-button">Search</button></form></div>                <div id="top-nav"><a href="login" title="Member Login" target="_self">Member Login</a>
+ &nbsp;|&nbsp; <a href="join" title="Join The Association" target="_self">Join The Association</a>
+</div>
+                <div id="mobile-menu"><a href="javascript:void(0)">Menu</a></div>                
+                <div class="clearer">&nbsp;</div>
+            </header>
+        </div>
+    </div>
+    <div id="container-navigation">
+    	<div class="wrap">
+        	<nav id="navigation"><ul><li class=""><a href="." title="Home" name="edit4b04a8d3a64dd" target="_self" class="on"><strong class="top-lip">&nbsp;</strong><strong>Home</strong></a>
+</li><li class=""><div class="nav-div">&nbsp;</div><a href="our-members" title="Our Members" name="edit5330efa8b8304" target="_self"><strong class="top-lip">&nbsp;</strong><strong>Our Members</strong></a>
+</li><li class="drop "><div class="nav-div">&nbsp;</div><a href="about" title="About NZMPA" name="edit4b04a9e06ddcc" target="_self"><strong class="top-lip">&nbsp;</strong><strong>About NZMPA</strong></a>
+<ul id="sub-edit4b04a9e06ddcc" class="sub-nav"><li><a href="paint-recycling" title="Paint Recycling">Paint Recycling</a></li><li><a href="recycle-centres" title="Paint Recycling Centres">Paint Recycling Centres</a></li><li><a href="abstracts" title="Abstracts">Abstracts</a></li></ul></li><li class=""><div class="nav-div">&nbsp;</div><a href="initiatives" title="Current Initiatives" name="edit52ae2933230b3" target="_self"><strong class="top-lip">&nbsp;</strong><strong>Current Initiatives</strong></a>
+</li><li class=""><div class="nav-div">&nbsp;</div><a href="links" title="Links" name="edit4cf312e761737" target="_self"><strong class="top-lip">&nbsp;</strong><strong>Links</strong></a>
+</li><li class=""><div class="nav-div">&nbsp;</div><a href="training" title="Training" name="edit52ae296ec81ae" target="_self"><strong class="top-lip">&nbsp;</strong><strong>Training</strong></a>
+</li><li class=""><div class="nav-div">&nbsp;</div><a href="environmental" title="Environment" name="edit52ae29906ddd3" target="_self"><strong class="top-lip">&nbsp;</strong><strong>Environment</strong></a>
+</li><li class=""><div class="nav-div">&nbsp;</div><a href="news" title="News" name="anytime478b17b6ca2ff" target="_self"><strong class="top-lip">&nbsp;</strong><strong>News</strong></a>
+</li><li class=""><div class="nav-div">&nbsp;</div><a href="faqs" title="FAQs" name="edit4cfdac8ed14f8" target="_self"><strong class="top-lip">&nbsp;</strong><strong>FAQs</strong></a>
+</li><li class=""><div class="nav-div">&nbsp;</div><a href="contact" title="Contact" name="anytime478c08d2e9152" target="_self"><strong class="top-lip">&nbsp;</strong><strong>Contact</strong></a>
+</li><li class="mobile-item"><div class="nav-div">&nbsp;</div><a href="login" title="Member Login" name="anytime4a2d82bf6806b" target="_self"><strong class="top-lip">&nbsp;</strong><strong>Member Login</strong></a>
+</li><li class="mobile-item"><div class="nav-div">&nbsp;</div><a href="join" title="Join The Association" name="edit5330bfdf4620a" target="_self"><strong class="top-lip">&nbsp;</strong><strong>Join The Association</strong></a>
+</li><li class="mobile-item"><div class="nav-div">&nbsp;</div><a href="ptresults" title="Proficiency Testing Results" name="edit54cc4ae020f78" target="_self"><strong class="top-lip">&nbsp;</strong><strong>Proficiency Testing Results</strong></a>
+</li></ul><div class="clearer">&nbsp;</div></nav>
+        </div>
+    </div>
+    <div id="container-flash"><div id="site-messages"></div>
+<div class="clearer">&nbsp;</div><div id="image-rotator"><div class="wrap"><div id="slider-over">&nbsp;</div><div id="slider" class="nivoSlider" style="height:254px;"><a href="contact"><img src="edit/image_cache/Rotator_960x254c1pcenter.png" alt="#edit4e10fb685f16a" data-thumb="edit/image_cache/Rotator_960x254c1pcenter.png" title="#edit4e10fb685f16a" /></a></div><div id="edit4e10fb685f16a" class="nivo-html-caption"><div class="slider-text"><a href="contact"><h2>NZPMA</h2><p>representing the paint, ink, resins and adhesives industry in New Zealand</p></a></div></div><a href="contact.php"><div class="rotator-more">Find out More <small>>></small></div></a></div></div><script language="javascript" type="text/javascript">
+					   $(window).load(function() {
+							$("#slider").nivoSlider({
+								effect:"fade", //Specify sets like: "fold,fade,sliceDown"
+								slices:15,
+								boxCols: 10, // For box animations
+								boxRows: 5, // For box animations
+								animSpeed:800, //Slide transition speed
+								pauseTime:5000,
+								startSlide:0, //Set starting Slide (0 index)
+								directionNav:false, //Next & Prev
+								directionNavHide:true, //Only show on hover
+								controlNav:false, //1,2,3...
+								controlNavThumbs:false, //Use thumbnails for Control Nav
+								controlNavThumbsFromRel:false, //Use image rel for thumbs
+								controlNavThumbsSearch: ".jpg", //Replace this with...
+								controlNavThumbsReplace: "_thumb.jpg", //...this in thumb Image src
+								keyboardNav:true, //Use left & right arrows
+								pauseOnHover:true, //Stop animation while hovering
+								manualAdvance:false, //Force manual transitions
+								captionOpacity:1, //Universal caption opacity
+								beforeChange: function(){},
+								afterChange: function(){},
+								slideshowEnd: function(){}, //Triggers after all slides have been shown
+								lastSlide: function(){}, //Triggers when last slide is shown
+								afterLoad: function(){} //Triggers when slider has loaded
+							});
+						});
+					   </script></div>
+    <div id="container-main">
+    	<div class="wrap">
+            <div id="main">
+                <a name="top"></a>
+<div class="thirds">
+<div class="main-third">
+<h1>Welcome</h1><p>The New Zealand Paint Manufacturers Association is the leading body representing the manufacturers and suppliers of the paint, inks, resins and adhesives industries. We are the voice of those industries providing representation in the market place and at government level.<br />
+<br />
+It’s an important business sector comprising around 250 companies employing over 15000 people across the country. Our products are supplied to industries ranging from home decorating and house painting, to printing and sign writing, automotive, boat building.<br />
+<br />
+Of the 250 companies involved in the industry, roughly 23 employ more than 100 people.  The remainder are SMEs with the majority having less than 20 staff.<br />
+<br />
+The New Zealand Paint Manufacturers Association Incorporated Inc (NZPMA) is the pre-eminent business organisation representing the sector in New Zealand.</p></div>
+<div class="main-third">
+<div class="news-holder"><div class="news-item"><div class="news-text-full"><h2><a href="news-item/15th-asia-coatings-markets">15th Asia Coatings Markets</a></h2>The full agenda for 15th Asia Coatings Markets scheduled on 20-21 October, 2015 in Bangkok, Thailand is now available online with new speakers from BASF and Orr & Boss.
+
+The new ...<br/><span class="small"><a href="news-item/15th-asia-coatings-markets">More »</a></span></div><div class="clearer">&nbsp;</div></div><div class="clearer" style="height:10px;">&nbsp;</div><div class="news-item"><div class="news-text-full"><h2><a href="news-item/apas-draft-revision-of-d123-restrictions-on-paint-ingredients">APAS:  Draft revision of D123 restrictions on paint ingredients</a></h2>We have just received the following email from Ken Loffhelm.  The deadline is for the end of this month, so once again, this is to give you the opportunity to put in your own ...<br/><span class="small"><a href="news-item/apas-draft-revision-of-d123-restrictions-on-paint-ingredients">More »</a></span></div><div class="clearer">&nbsp;</div></div></div></div>
+<div class="main-third">
+<div id="side-boxes"><div class="side-box" style="background-image:url(edit/image_cache/side_box_bg_paint_700x1000c0pcenter.jpg);"><a href="our-members" target="_self" title="Find the Right Paint"><h6><b>Click here</b> to find the Right Paint »</h6></a></div><div class="side-box" style="background-image:url(edit/image_cache/side_box_bg_join_700x1000c0pcenter.jpg);"><a href="join" target="_self" title="Find Out How To Join"><h5><b>Click here</b> to find out how to join »</h5></a></div><div class="side-box" style="background-image:url(edit/image_cache/side_box_bg_recycle_700x1000c0pcenter.jpg);"><a href="paint-recycling" target="_self" title="Find Out About Recycling Paint"><h6><b>Click here</b> to find out about Recycling Paint »</h6></a></div><div class="side-box" style="background-image:url(edit/image_cache/side_box_bg_pink_700x1000c0pcenter.jpg);"><h4><b>In An Emergency</b></h4>If there has been a safety, health or environmental emergency, please contact the Emergency Response Service on <b>0800 734 607</b></div></div><div class="clearer" style="height:18px;">&nbsp;</div></div>
+<div class="clearer">&nbsp;</div></div>
+<div class="clearer">&nbsp;</div>                
+                <div class="clearer">&nbsp;</div>
+            </div>
+        </div>
+    </div>
+    <div id="container-footer">
+    	<div class="wrap">
+            <footer id="footer">
+                <div class="footer-middle">
+                    PO Box 1282, Pukekohe 2340, New Zealand  <span class=grey>|</span>  <b>Tel:</b> +64 9 910 0141  <span class=grey>|</span>  <b>Fax:</b> +64 9 238 0751  <span class=grey>|</span>  <b>Email:</b> <a href=mailto:nzpma@workz4u.co.nz>nzpma@workz4u.co.nz</a>                </div>
+                
+                <div class="clearer">&nbsp;</div>
+            </footer>
+        </div>
+    </div>
+    <div id="container-base">
+    	<div class="wrap">
+            <div id="base">
+				<a href="." title="Home" target="_self">Home</a>
+ &nbsp;|&nbsp; <a href="our-members" title="Our Members" target="_self">Our Members</a>
+ &nbsp;|&nbsp; <a href="about" title="About NZMPA" target="_self">About NZMPA</a>
+ &nbsp;|&nbsp; <a href="initiatives" title="Current Initiatives" target="_self">Current Initiatives</a>
+ &nbsp;|&nbsp; <a href="links" title="Links" target="_self">Links</a>
+ &nbsp;|&nbsp; <a href="training" title="Training" target="_self">Training</a>
+ &nbsp;|&nbsp; <a href="environmental" title="Environment" target="_self">Environment</a>
+ &nbsp;|&nbsp; <a href="news" title="News" target="_self">News</a>
+ &nbsp;|&nbsp; <a href="paint-recycling" title="Paint Recycling" target="_self">Paint Recycling</a>
+ &nbsp;|&nbsp; <a href="site" title="Site Map" target="_self">Site Map</a>
+ &nbsp;|&nbsp; <a href="login" title="Member Login" target="_self">Member Login</a>
+ &nbsp;|&nbsp; <a href="join" title="Join The Association" target="_self">Join The Association</a>
+                
+                <div class="clearer">&nbsp;</div>
+                Copyright © New Zealand Paint Manufacturers Association Incorporated<span id="desktop-link"> &nbsp;|&nbsp; <a href="index.php?type=changeviewport&viewport=desktop&previous=index.php">View Desktop Version</a></span>                
+                <div class="clearer">&nbsp;</div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
